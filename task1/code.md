@@ -28,8 +28,9 @@ Design a Python program to allocate university scholarships by evaluating studen
 The eligibility limits and ranking rules are sample rules for this assignment.
 
 ## 3. Flowchart
+```
 
-
+```
 ## 4. Python Source Code
 
 ```
