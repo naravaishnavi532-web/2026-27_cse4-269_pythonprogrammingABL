@@ -30,6 +30,30 @@ The eligibility limits and ranking rules are sample rules for this assignment.
 ## 3. Flowchart
 ```
 
+flowchart TD
+    A([Start]) --> B[/Input number of students N/]
+    B --> C[i = 1]
+    C --> D{ i <= N? }
+    D -- Yes --> E[/Input student details and marks/]
+    E --> F{Aggregate >= 75?}
+    F -- No --> K[Reject student]
+    F -- Yes --> G{All subject marks >= 60?}
+    G -- No --> K
+    G -- Yes --> H{Attendance >= 75?}
+    H -- No --> K
+    H -- Yes --> I{Income <= 250000?}
+    I -- No --> K
+    I -- Yes --> J[Add student to eligible list]
+    J --> L[i = i + 1]
+    K --> L
+    L --> D
+    D -- No --> M{Eligible list empty?}
+    M -- Yes --> N[/Display no eligible students/]
+    M -- No --> O[Sort eligible students using tie-break rules]
+    O --> P[/Display ranked students/]
+    N --> Q([Stop])
+    P --> Q
+
 ```
 ## 4. Python Source Code
 
