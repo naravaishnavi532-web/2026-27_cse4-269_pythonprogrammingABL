@@ -55,11 +55,6 @@ flowchart TD
     P --> Q
 
 ```
-## 4. Python Source Code
-
-```
-
-```
 
 ## 5. Sample Input
 
@@ -92,9 +87,4 @@ Eligible Students - Scholarship Ranking
 1 Priya | Aggregate: 91.0 | Attendance: 95.0 | Income: 180000.0
 2 Ravi | Aggregate: 82.0 | Attendance: 90.0 | Income: 200000.0
 ```
-
-## 7. Mermaid Flowchart Code
-
-
-## 8. Result
 
