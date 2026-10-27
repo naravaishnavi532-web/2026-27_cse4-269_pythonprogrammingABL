@@ -28,8 +28,8 @@ Design a Python program to allocate university scholarships by evaluating studen
 The eligibility limits and ranking rules are sample rules for this assignment.
 
 ## 3. Flowchart
-```mermaid
 
+```mermaid
 flowchart TD
     A([Start]) --> B[/Input number of students N/]
     B --> C[i = 1]
@@ -53,9 +53,7 @@ flowchart TD
     O --> P[/Display ranked students/]
     N --> Q([Stop])
     P --> Q
-
 ```
-
 ## 5. Sample Input
 
 ```
