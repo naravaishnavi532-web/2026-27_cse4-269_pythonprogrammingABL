@@ -2,7 +2,7 @@
 # Name : N.Vaishnavi
 # Roll number : 26000269
 # Branch : CSE
-# Section : 19
+# Section : 19 
 # TASK : 
 # Task 1 :
 # University Scholarship Allocation: Design a system that evaluates applicants using aggregate marks, subject-wise minimum scores, attendance, and income criteria, ranks eligible students, and resolves ties using predefined rules.
