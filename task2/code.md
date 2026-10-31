@@ -74,7 +74,7 @@ flowchart TD
 
 ```
 
-## 5. Sample Input
+## 4. Sample Input
 
 ```
 Enter number of months: 3
@@ -89,7 +89,7 @@ Month 3
 Enter electricity units consumed: 250
 ```
 
-## 6. Sample Output
+## 5. Sample Output
 
 ```
 Month 1
