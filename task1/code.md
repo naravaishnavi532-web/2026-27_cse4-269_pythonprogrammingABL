@@ -54,7 +54,7 @@ flowchart TD
     N --> Q([Stop])
     P --> Q
 ```
-## 5. Sample Input
+## 4. Sample Input
 
 ```
 Enter number of students: 2
@@ -78,7 +78,7 @@ Enter attendance (%): 95
 Enter annual family income (Rs.): 180000
 ```
 
-## 6. Sample Output
+## 5. Sample Output
 
 ```
 Eligible Students - Scholarship Ranking
